@@ -1,2 +1,2 @@
-# Crop-Recommendation-System
+# Crop-recommendation-System
 .
